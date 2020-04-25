@@ -5,8 +5,8 @@ Originally modified to work with Hatsukoi 1/1 due to a missing glyph, the font w
 
 Below are the variants available.
 
-## Hatsukoi Regular
+## Hatsukoi-Regular.ttf
 For use with visual novel engines that normally support custom font usage.
 
-## Sukix2Custom (Edited)
+## Sukix2Custom.ttf (Edited)
 For use with MangaGamer's "If You Love Me, Then Say So!" VN running the Majiro Engine. May work with other localized Majiro Engine titles.
