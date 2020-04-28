@@ -8,5 +8,5 @@ Below are the variants available.
 ## Hatsukoi-Regular.ttf
 For use with visual novel engines that normally support custom font usage. Installation of this font is necessary for some engines.
 
-## Sukix2Custom.ttf (Edited)
-For use with MangaGamer's "If You Love Me, Then Say So!" VN running the Majiro Engine. May work with other localized Majiro Engine titles. Glyphs were stretched to display properly with the engine, so it is recommended **NOT** to install this font on your computer since it will display differently on other programs.
+## Sukix2Custom.ttf and ByakkoCustom.ttf (Edited)
+For use with MangaGamer's "If You Love Me, Then Say So!" VN and "Farther than the Blue Sky" VN respectively, running the Majiro Engine. These do **NOT** work with other localized Majiro Engine titles as they require minor modifications to its metadata to be compatible. Glyphs were stretched to display properly with the engine, so it is recommended **NOT** to install this font on your computer since it will display differently on other programs.
